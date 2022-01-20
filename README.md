@@ -5,8 +5,8 @@
 score will increase. You can listen main theme of Pokemon and close the song (optionally).
 
 # FEATURES
-> MediaPlayer class
-> Intent
-> Runnable and Handler
-> CountDownTimer class
-> AlertDialog class
+> MediaPlayer class, 
+> Intent, 
+> Runnable and Handler, 
+> CountDownTimer class, 
+> AlertDialog class.
